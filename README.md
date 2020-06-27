@@ -7,13 +7,13 @@
   <img alt="Made By" src="https://img.shields.io/static/v1?label=Made%20By&message=Antonio%20Mendanha&color=blue&style=for-the-badge">
 	</a>
   
-  <img alt="Languages" src="https://img.shields.io/github/languages/count/AntonioMendanha/GameDev_Endless_Runner?style=for-the-badge">
+  <img alt="Languages" src="https://img.shields.io/github/languages/count/AntonioMendanha/Be-the-Hero-Omnistack11-?style=for-the-badge">
   
-  <img alt="Top Language" src="https://img.shields.io/github/languages/top/AntonioMendanha/GameDev_Endless_Runner?style=for-the-badge">
+  <img alt="Top Language" src="https://img.shields.io/github/languages/top/AntonioMendanha/Be-the-Hero-Omnistack11-?style=for-the-badge">
   
-  <img alt="Repo Size" src="https://img.shields.io/github/repo-size/AntonioMendanha/GameDev_Endless_Runner?style=for-the-badge">
+  <img alt="Repo Size" src="https://img.shields.io/github/repo-size/AntonioMendanha/Be-the-Hero-Omnistack11-?style=for-the-badge">
   
-  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/AntonioMendanha/GameDev_Endless_Runner?style=for-the-badge">
+  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/AntonioMendanha/Be-the-Hero-Omnistack11-?style=for-the-badge">
 </p>
 
 <p>
